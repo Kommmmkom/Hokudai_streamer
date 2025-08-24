@@ -31,18 +31,6 @@ Jupyter でも単体スクリプトでも動作します。
 
 ---
 
-## リポジトリ構成
-
-```
-.
-├── dbd_toy_simulation.py     # そのまま実行できるスクリプト
-├── README.md                 # このファイル
-└── notebooks/
-    └── dbd_demo.ipynb        # ノートブック（任意）
-```
-
----
-
 ## 必要環境
 - Python 3.9+
 - numpy, matplotlib（Jupyter で表を表示するなら pandas は任意）
